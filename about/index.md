@@ -5,7 +5,7 @@ tags: [Sistem Informasi, Sains dan Teknologi, UIN SUSKA RIAU,]
 date: 2016-03-21
 ---
 
-![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
+![jekyll Image]
 {: .image-pull-right}
 
 <center><b>Wiwik's Blog</b> Student of Information System.</center>
